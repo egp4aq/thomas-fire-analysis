@@ -1,6 +1,8 @@
 # thomas-fire-analysis
 Visualizing the December 2017 Thomas Fire
 
+![Thomas Fire](images/fire.jpg)
+
 ## About
 
 This repository contains three notebooks: `hwk4-task2-fire-perimeter-PETERSON.ipynb` and `hwk4-task2-false-color-PETERSON.ipynb` which analyze and fire data in California, specifically looking at the December 2017 Thomas Fire, and `thomas_fire_blog_post.ipynb` which includes the notebook where I drafted the blog post for this analysis.
