@@ -11,7 +11,8 @@ This repository contains three notebooks: `hwk4-task2-fire-perimeter-PETERSON.ip
 
 ```bash
 
-eds220-hwk4
+thomas-fire-analysis
+│   thomas_fire_blog_post.ipynb
 │   README.md
 |   hwk4-task2-fire-perimeter-PETERSON.ipynb
 │   hwk4-task2-false-color-PETERSON.ipynb
